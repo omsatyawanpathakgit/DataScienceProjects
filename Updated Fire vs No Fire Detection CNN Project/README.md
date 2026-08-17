@@ -50,10 +50,10 @@ Build an image classification model that accurately identifies whether a given i
 ### Sample Predictions
 | Image | Prediction | Correct? |
 |-------|------------|----------|
-| Fire Image | Fire (99.99%) | ✅ |
-| Snowy Road | Fire | ❌ (False Positive) |
-| Children in Park | No Fire | ✅ |
-| Rooftop Garden | No Fire | ✅ |
+| Fire Image | Fire (99.99%) | Yes |
+| Snowy Road | Fire | No (False Positive) |
+| Children in Park | No Fire | Yes |
+| Rooftop Garden | No Fire | Yes |
 
 ## Technologies Used
 - Python 3.x
