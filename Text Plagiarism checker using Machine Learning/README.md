@@ -52,6 +52,14 @@ Build a classification model that determines whether a text passage is plagiariz
 
 ### Best Model Performance (Logistic Regression)
 - **Accuracy**: 89.19%
+
+
+## Technologies Used
+- Python 3.x
+- NLTK (Natural Language Toolkit)
+- Scikit-learn
+- XGBoost
+- Pandas, NumPy
 - **Precision**: 89.19%
 - **Recall**: 89.19%
 - **F1 Score**: 89.19%
